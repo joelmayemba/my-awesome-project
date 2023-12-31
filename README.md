@@ -1,2 +1,5 @@
 # my-awesome-project
-#Super ça marche
+Super ça marche
+
+# achievements
+J'ai réussi à faire clone, pull et je m'apprête à faire push
